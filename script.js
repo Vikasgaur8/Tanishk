@@ -47,16 +47,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Sample properties data for dynamic cards
 const residential = [
-  {
-    image: "images/images/m3mfullimg.jpg",
-    image2: "images/images/m3m.png",
-    name: "TEStt",
-    type: "Commercial",
-    location:
-      "M3M International Financial Center, Sector-66, Golf Course Road (Extn.), Gurugram-122101, Haryana, India",
-    // price: "On Request",
-    link: "/Tanishk/knowMorePage/knowMore.html",
-  },
+  // {
+  //   image: "images/images/m3mfullimg.jpg",
+  //   image2: "images/images/m3m.png",
+  //   name: "TEStt",
+  //   type: "Commercial",
+  //   location:
+  //     "M3M International Financial Center, Sector-66, Golf Course Road (Extn.), Gurugram-122101, Haryana, India",
+  //   // price: "On Request",
+  //   link: "/Tanishk/knowMorePage/knowMore.html",
+  // },
   {
     // image: "https://via.placeholder.com/400x180", // Replace with actual image URLs
     image: "images/images/Signature Global.jpg", // Replace with actual image URLs
