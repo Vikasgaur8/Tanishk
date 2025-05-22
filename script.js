@@ -55,7 +55,7 @@ const residential = [
   //   location:
   //     "M3M International Financial Center, Sector-66, Golf Course Road (Extn.), Gurugram-122101, Haryana, India",
   //   // price: "On Request",
-  //   link: "/Tanishk/knowMorePage/knowMore.html",
+  //   link: "/knowMorePage/knowMore.html",
   // },
   {
     // image: "https://via.placeholder.com/400x180", // Replace with actual image URLs
@@ -67,7 +67,7 @@ const residential = [
     location:
       "Unit No.101, Ground Floor, Tower-A, Signature Tower South City-1, Gurugram, Haryana",
     // price: "₹ 2.94 Cr*",
-    link: "/Tanishk/knowMorePage/signatureglobal.html",
+    link: "/knowMorePage/signatureglobal.html",
   },
   {
     image: "images/images/The edition fullimg.jpg",
@@ -76,7 +76,7 @@ const residential = [
     type: "Commercial",
     location: "Badshahpur, Sector 66, Gurugram, Haryana",
     // price: "₹ 1.52 Cr*",
-    link: "/Tanishk/knowMorePage/smartWorldTheEdition.html",
+    link: "/knowMorePage/smartWorldTheEdition.html",
   },
   {
     image: "images/images/Eldeco fullimg.jpg",
@@ -85,7 +85,7 @@ const residential = [
     type: "Commercial",
     location: "Eldeco, Sector 80, Gurugram, Haryana",
     // price: "₹ 1.45 Cr*",
-    link: "/Tanishk/knowMorePage/eldeco.html",
+    link: "/knowMorePage/eldeco.html",
   },
   {
     image: "images/images/m3mfullimg.jpg",
@@ -95,7 +95,7 @@ const residential = [
     location:
       "M3M International Financial Center, Sector-66, Golf Course Road (Extn.), Gurugram-122101, Haryana, India",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/m3mIndia.html",
+    link: "/knowMorePage/m3mIndia.html",
   },
   {
     image: "images/images/tulipfullimg.avif",
@@ -104,7 +104,7 @@ const residential = [
     type: "Commercial",
     location: "Tulip Crimson, Sector 70 Gurugram, Haryana",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/tulipCrimson.html",
+    link: "/knowMorePage/tulipCrimson.html",
   },
   {
     image: "images/images/paras_fullimg.jpg",
@@ -114,7 +114,7 @@ const residential = [
     location:
       "11th Floor, TOWER-B, Paras Twin Towers, Golf Course Rd, Suncity, Sector 54, Gurugram, Haryana",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/parasBuildtech.html",
+    link: "/knowMorePage/parasBuildtech.html",
   },
   {
     image: "images/images/godrej_fullimg.jpg",
@@ -123,7 +123,7 @@ const residential = [
     type: "Commercial",
     location: "Sector 43, Golf Course Road, Gurugram",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/godrejProperties.html",
+    link: "/knowMorePage/godrejProperties.html",
   },
   {
     image: "images/images/twin_tower_fullimg.png",
@@ -132,7 +132,16 @@ const residential = [
     type: "Commercial",
     location: "Sector 84, Gurugram",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/signatureGlobalTwinTower.html",
+    link: "/knowMorePage/signatureGlobalTwinTower.html",
+  },
+  {
+    image: "images/images/dlfFullimg.jpg",
+    image2: "images/images/dlfLOgo.png",
+    name: "DLF",
+    type: "Commercial",
+    location: "DLF City Phase – III, Gurugram",
+    // price: "On Request",
+    link: "/knowMorePage/dlf.html",
   },
 ];
 
@@ -145,7 +154,7 @@ const properties = [
   //   location:
   //     "M3M International Financial Center, Sector-66, Golf Course Road (Extn.), Gurugram-122101, Haryana, India",
   //   // price: "On Request",
-  //   link: "/Tanishk/knowMorePage/knowMore.html",
+  //   link: "/knowMorePage/knowMore.html",
   // },
   {
     // image: "https://via.placeholder.com/400x180", // Replace with actual image URLs
@@ -157,7 +166,7 @@ const properties = [
     location:
       "Unit No.101, Ground Floor, Tower-A, Signature Tower South City-1, Gurugram, Haryana",
     // price: "₹ 2.94 Cr*",
-    link: "/Tanishk/knowMorePage/signatureglobal.html",
+    link: "/knowMorePage/signatureglobal.html",
   },
   {
     image: "images/images/The edition fullimg.jpg",
@@ -166,7 +175,7 @@ const properties = [
     type: "Residential",
     location: "Badshahpur, Sector 66, Gurugram, Haryana",
     // price: "₹ 1.52 Cr*",
-    link: "/Tanishk/knowMorePage/smartWorldTheEdition.html",
+    link: "/knowMorePage/smartWorldTheEdition.html",
   },
   {
     image: "images/images/Eldeco fullimg.jpg",
@@ -175,7 +184,7 @@ const properties = [
     type: "Residential",
     location: "Eldeco, Sector 80, Gurugram, Haryana",
     // price: "₹ 1.45 Cr*",
-    link: "/Tanishk/knowMorePage/eldeco.html",
+    link: "/knowMorePage/eldeco.html",
   },
   {
     image: "images/images/m3mfullimg.jpg",
@@ -185,7 +194,7 @@ const properties = [
     location:
       "M3M International Financial Center, Sector-66, Golf Course Road (Extn.), Gurugram-122101, Haryana, India",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/m3mIndia.html",
+    link: "/knowMorePage/m3mIndia.html",
   },
   {
     image: "images/images/tulipfullimg.avif",
@@ -194,7 +203,7 @@ const properties = [
     type: "Residential",
     location: "Tulip Crimson, Sector 70 Gurugram, Haryana",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/tulipCrimson.html",
+    link: "/knowMorePage/tulipCrimson.html",
   },
   {
     image: "images/images/paras_fullimg.jpg",
@@ -204,7 +213,7 @@ const properties = [
     location:
       "11th Floor, TOWER-B, Paras Twin Towers, Golf Course Rd, Suncity, Sector 54, Gurugram, Haryana",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/parasBuildtech.html",
+    link: "/knowMorePage/parasBuildtech.html",
   },
   {
     image: "images/images/godrej_fullimg.jpg",
@@ -213,7 +222,7 @@ const properties = [
     type: "Residential",
     location: "Sector 43, Golf Course Road, Gurugram",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/godrejProperties.html",
+    link: "/knowMorePage/godrejProperties.html",
   },
   {
     image: "images/images/twin_tower_fullimg.png",
@@ -222,7 +231,16 @@ const properties = [
     type: "Residential",
     location: "Sector 84, Gurugram",
     // price: "On Request",
-    link: "/Tanishk/knowMorePage/signatureGlobalTwinTower.html",
+    link: "/knowMorePage/signatureGlobalTwinTower.html",
+  },
+  {
+    image: "images/images/dlfFullimg.jpg",
+    image2: "images/images/dlfLOgo.png",
+    name: "DLF",
+    type: "Residential",
+    location: "DLF City Phase – III, Gurugram",
+    // price: "On Request",
+    link: "/knowMorePage/dlf.html",
   },
 ];
 
