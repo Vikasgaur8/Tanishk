@@ -55,7 +55,7 @@ const residential = [
   //   location:
   //     "M3M International Financial Center, Sector-66, Golf Course Road (Extn.), Gurugram-122101, Haryana, India",
   //   // price: "On Request",
-  //   link: "/Tanishk/knowMorePage/knowMore.html",
+  //   link: "/knowMorePage/knowMore.html",
   // },
   {
     // image: "https://via.placeholder.com/400x180", // Replace with actual image URLs
@@ -133,6 +133,15 @@ const residential = [
     location: "Sector 84, Gurugram",
     // price: "On Request",
     link: "/Tanishk/knowMorePage/signatureGlobalTwinTower.html",
+  },
+  {
+    image: "images/images/dlfFullimg.jpg",
+    image2: "images/images/dlfLOgo.png",
+    name: "DLF",
+    type: "Commercial",
+    location: "DLF City Phase – III, Gurugram",
+    // price: "On Request",
+    link: "/Tanishk/knowMorePage/dlf.html",
   },
 ];
 
@@ -223,6 +232,15 @@ const properties = [
     location: "Sector 84, Gurugram",
     // price: "On Request",
     link: "/Tanishk/knowMorePage/signatureGlobalTwinTower.html",
+  },
+  {
+    image: "images/images/dlfFullimg.jpg",
+    image2: "images/images/dlfLOgo.png",
+    name: "DLF",
+    type: "Residential",
+    location: "DLF City Phase – III, Gurugram",
+    // price: "On Request",
+    link: "/Tanishk/knowMorePage/dlf.html",
   },
 ];
 
