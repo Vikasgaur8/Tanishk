@@ -377,8 +377,8 @@ body {
 }
 
 .builder-partners-section {
-  /* background-color: #0F0945; */
-  background: url("images/slide1.png") no-repeat center center;
+  background-color: #0F0945;
+  /* background: url("images/slide1.png") no-repeat center center; */
   padding: 40px 20px;
   text-align: center;
   color: white;
